@@ -4,7 +4,7 @@
 2. It uses one single database which is firebase real time database.
 3. User can create groups and all users can chat in real time.
 
-demo: https://studenthelper-62b59.web.app
+demo: https://devangjagdale.github.io/livewebsite/
 
 Website
 
